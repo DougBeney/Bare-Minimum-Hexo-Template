@@ -1,0 +1,18 @@
+{
+  "name": "hexolove",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "hexo": {
+    "version": "3.7.1"
+  },
+  "dependencies": {
+    "hexo": "^3.7.1",
+    "hexo-server": "^0.3.1"
+  }
+}
