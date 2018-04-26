@@ -1,10 +1,8 @@
 {
-	"name": "bare-minimum-hexo",
-	"hexo": {
-		"version": "3.7.1"
-	},
-	"dependencies": {
-		"hexo": "^3.7.1",
-		"hexo-server": "^0.3.1",
-	}
+  "name": "bare-minimum-hexo",
+  "hexo": {},
+  "dependencies": {
+    "hexo": "^3.7.1",
+    "hexo-server": "^0.3.1"
+  }
 }
